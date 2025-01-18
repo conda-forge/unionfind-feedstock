@@ -1,4 +1,4 @@
-{% set python_min = '3.9.0' %}
+{% set python_min = '3.12' %}
 {% set name = "unionfind" %}
 {% set version = "0.2.1" %}
 
